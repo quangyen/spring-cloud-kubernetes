@@ -22,3 +22,4 @@ public class KubernetesBackendApplication {
 	    return "Hello from " + InetAddress.getLocalHost().getHostName();
     }
 }
+
